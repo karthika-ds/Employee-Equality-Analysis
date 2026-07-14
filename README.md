@@ -6,7 +6,7 @@ Employee Equality Analysis Dashboard
 The objective of this project is to analyze employee equality scores across factories and machines using Tableau. The dashboard helps identify compensation fairness and highlights areas that require further investigation.
 
 # Tools Used
-Tableau
+Tableau,
 Microsoft Excel
 
 # Dashboard
